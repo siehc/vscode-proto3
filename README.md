@@ -7,7 +7,10 @@
 
 Protobuf 3 support for Visual Studio Code — syntax, validation, snippets, and quick compile/renumber workflows.
 
-> ⚠️ **Project is looking for new maintainers.** If you're interested, please comment on issue #184.
+> ⚠️ **Project is no longer maintained.**
+> Please consider using [Protobuf VSC](https://marketplace.visualstudio.com/items?itemName=drblury.protobuf-vsc) instead.
+> This extension will receive no further updates and is marked as deprecated on the VS Code Marketplace.
+> A big thank you to all users and contributors!
 
 ![icon](images/vscode_extension_icon.png)
 
