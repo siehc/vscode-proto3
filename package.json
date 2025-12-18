@@ -99,7 +99,7 @@
             },
             "renumber_on_save": {
               "type": "boolean",
-              "default": true,
+              "default": false,
               "description": "Automatically renumber message fields and enum values whenever a proto3 file is saved"
             },
             "compile_on_save": {

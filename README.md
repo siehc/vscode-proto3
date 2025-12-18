@@ -112,7 +112,7 @@ Example `.vscode/settings.json` (see `example/.vscode`):
 | --- | --- | --- | --- |
 | `path` | string | protoc in PATH | Protoc binary path. |
 | `compile_on_save` | boolean | `false` | Compile current file on save. |
-| `renumber_on_save` | boolean | `true` | Renumber fields/enums on save. |
+| `renumber_on_save` | boolean | `false` | Renumber fields/enums on save. |
 | `compile_all_path` | string | Workspace root | Search path for Compile All. |
 | `use_absolute_path` | boolean | `false` | Use absolute paths when searching. |
 | `options` | string[] | `[]` | Protoc flags for validation/compilation. |
